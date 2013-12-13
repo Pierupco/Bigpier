@@ -1,0 +1,48 @@
+
+fieldset.form_input {
+    width: 99%;    
+    margin: 0;    
+    padding: 0;    
+    border: 1px solid #BFBAB0;    
+    font-family: "trebuchet MS",verdana,helvetica,sans-serif;
+}
+
+fieldset.form_input legend {
+    margin-left: 1em;
+    color: black;
+    font-weight: bold;
+    background-color: white;  #added for Firefox because of background image
+}
+
+fieldset.form_input ol {
+    list-style: none;
+    padding: 1em 1em 0 1em;
+    margin: 0;
+}
+
+fieldset.form_input li {
+    list-style: none;
+    padding: 0.5em;
+    margin: 0;
+}
+
+fieldset.form_input label {
+    float: left;    
+    width: 10em;    
+    margin-right: 1em; 
+    font-weight: bold;    
+    text-align: right; 
+}
+
+fieldset.form_input em {
+    font-weight: bold;
+    color: #f00;
+}
+
+
+fieldset.form_action {
+    margin-top: 1em;
+    border-style: none;    
+    padding-left: 12em;    
+    background-color: transparent;
+}

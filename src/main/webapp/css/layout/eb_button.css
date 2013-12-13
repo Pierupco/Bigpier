@@ -1,0 +1,99 @@
+
+a.sets_op_button {
+    background:url(/images/op_buttons/button_bg.png) no-repeat;
+	float: left;
+	color:#555555;
+	font-weight:bold; 
+ 
+	height:24px;
+	line-height:23px;
+	margin-bottom:8px;
+    margin-right: 5px;
+	text-decoration:none;
+	width:180px;
+	white-space:nowrap;
+}
+a:hover.sets_op_button{
+	color:#0066CC;
+}
+
+
+a.sets_action_op {
+    float: right;
+}
+
+a.sets_op_button span {
+    text-indent:28px;
+    display:block;
+}
+
+/* set up buttons */
+
+.select_all{
+	font-size:0.9em;
+    background:url(/images/op_buttons/select_all.jpg) no-repeat 8px 3px;
+}
+
+.remove_selected{
+	font-size:0.9em;
+    background:url(/images/op_buttons/remove_from_profile.png) no-repeat 8px 3px;
+}
+
+.order{
+	font-size:0.9em;
+    background:url(/images/op_buttons/cart.png) no-repeat 8px 3px;
+}
+
+.add_profile{
+	font-size:0.9em;
+    background:url(/images/op_buttons/save_profile.png) no-repeat 8px 3px;
+}
+
+.search{
+	font-size:0.9em;
+    background:url(/images/op_buttons/search_collection.png) no-repeat 8px 3px;
+}
+
+.add_working_list{
+	font-size:0.9em;
+    background:url(/images/op_buttons/copy_to_working_list.png) no-repeat 8px 3px;
+}    
+
+.export_result{
+	font-size:0.9em;
+    background:url(/images/op_buttons/export_search.png) no-repeat 8px 3px;
+}
+
+.edit_info{
+	font-size:0.9em;
+    background:url(/images/op_buttons/edit_profile.png) no-repeat 8px 3px;
+} 
+
+.update_search{
+	font-size:0.9em;
+    background:url(/images/op_buttons/update_search.png) no-repeat 8px 3px;
+} 
+
+.folder{
+	font-size:0.9em;
+    background:url(/images/op_buttons/save_to_bookshelf.png) no-repeat 8px 3px;
+}     
+
+.view_list{
+	font-size:0.9em;
+    background:url(/images/op_buttons/view_collection.png) no-repeat 8px 3px;
+}     
+    
+.import_list{
+	font-size:0.9em;
+    background:url(/images/op_buttons/import_list.png) no-repeat 8px 3px;
+}
+
+a.save_button {
+    background:url(/images/op_buttons/button_bg.png) no-repeat;	
+	color:#555555;
+	font-weight:bold;
+    font-size:12px;	
+	padding: 4px 2px 4px 2px;   
+   	text-decoration:none; 
+}

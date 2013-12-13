@@ -1,0 +1,24 @@
+
+
+   html, body, form, table {
+	  overflow: hidden!important;
+   }  
+   
+    fieldset.form_input li.bullett {
+	  list-style:disc;
+	  padding-left: 1em; 	  
+	  margin-left: 1em;
+	}	
+    fieldset.form_input textarea {
+          background-color:transparent;
+		  overflow:auto;
+		  border:none;
+		  resize: none;
+		  outline:none;
+	}
+	
+	#stl_span {
+	  text-align:left;
+	  margin-left:3em;
+	  display:none;
+	}

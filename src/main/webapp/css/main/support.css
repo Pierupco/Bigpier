@@ -1,0 +1,15 @@
+
+.download_link_box {
+    text-align:center;
+}
+
+.download_link_box a {
+    font-size:1.5em;
+    font-weight: bold;
+}
+
+
+table.download_table td.header {
+    vertical-align: top;
+    font-weight: bold;
+}

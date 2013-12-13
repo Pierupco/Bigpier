@@ -1,0 +1,52 @@
+/*
+ * ============================================================================
+ *
+ *  COPYRIGHT NOTICE:
+ *
+ *  Copyright (c) 2004 - ebrary,inc. All Rights Reserved.
+ *
+ *  This work is subject to U.S. and international copyright laws and
+ *  treaties.  No part of this work may be used, practiced, performed,
+ *  copied, distributed, revised, modified, translated, transformed,
+ *  condensed, expanded, collected, compiled, linked, recast, abridged,
+ *  or adapted without the prior written consent of ebrary.  Any use
+ *  or exploitation of this work without authorization could subject
+ *  the perpetrator to criminal and civil liability.
+ *
+ *  SECURITY NOTICE:
+ *
+ *  This code may only be viewed by employees of ebrary inc., or people
+ *  who have signed an appropriate non-disclosure agreement with ebrary,
+ *  inc. If you have any questions about your access to this code,
+ *  please contact ebrary inc.
+ *
+ * ============================================================================
+ */
+body
+{
+        background-color: #DDDDDD;
+}
+
+#doc_info
+{
+        background-color: #DDDDDD;
+        font-family: arial,helvetica,sans-serif;
+        font-size: 0.8em;
+        height: 40px;
+        padding: 1px 5px;
+}
+
+#doc_info span.label
+{
+        font-weight: bold;
+}
+
+.inactivity
+{
+        border: 1px solid #666699;
+        background-color: white;
+        color: red;
+        padding: 1px 5px;
+        margin: 1px 5px;
+        font-size: 0.7em;
+}
